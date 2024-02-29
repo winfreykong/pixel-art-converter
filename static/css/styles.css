@@ -1,3 +1,28 @@
 .container {
     padding-top: 50px;
 }
+
+.form-label {
+    margin-top: 2rem;
+    margin-bottom: 0.1rem;
+    font-size: 20px;
+}
+
+.additional-info-grey {
+    color: gray;
+    font-size: 15px;
+    margin-top: 0rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.image-container {
+    margin-top: 2rem;
+}
+
+/* .show-image {
+    width: 50%;
+    height: auto;
+} */
